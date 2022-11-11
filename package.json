@@ -1,0 +1,24 @@
+{
+  "name": "weather_widget_app",
+  "version": "1.0.0",
+  "description": "Project about weather and time for any city in google maps.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sebastianpmtz/Weather_Widget_App.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sebastianpmtz/Weather_Widget_App/issues"
+  },
+  "homepage": "https://github.com/sebastianpmtz/Weather_Widget_App#readme",
+  "dependencies": {
+    "app": "^0.1.0",
+    "create": "^0.0.2",
+    "react": "^18.2.0"
+  }
+}
